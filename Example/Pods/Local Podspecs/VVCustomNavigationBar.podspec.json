@@ -1,0 +1,22 @@
+{
+  "name": "VVCustomNavigationBar",
+  "version": "0.1.0",
+  "summary": "A short description of VVCustomNavigationBar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yoferzhang/VVCustomNavigationBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yoferzhang": "yoferzhang@tencent.com"
+  },
+  "source": {
+    "git": "https://github.com/yoferzhang/VVCustomNavigationBar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "VVCustomNavigationBar/Classes/**/*"
+}
